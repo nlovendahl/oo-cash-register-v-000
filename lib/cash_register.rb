@@ -7,4 +7,7 @@ class CashRegister
   def discount
   end
 
+  def total=
+  end
+
 end
