@@ -4,4 +4,7 @@ class CashRegister
     @total = 0
   end
 
+  def discount
+  end
+
 end
